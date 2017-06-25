@@ -1,5 +1,5 @@
 # eslint-config-accelerator
-Collection of ESLint rules to use in all the environments
+Collection of ESLint rules to use for all the development environments (ex: nodejs, webpack, etc..,)
 
 ## Installation
 
@@ -73,3 +73,7 @@ Add `accelerator` to the plugins section of your `.eslintrc` configuration file.
     ]
 }
 ```
+
+## License
+
+[MIT](http://www.opensource.org/licenses/mit-license.php)
