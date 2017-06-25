@@ -1,0 +1,9 @@
+npm-debug.log
+temp
+node_modules/
+coverage/
+lib/
+.nyc_output
+.DS_Store
+*.tgz
+.idea/

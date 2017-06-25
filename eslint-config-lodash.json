@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "lodash"
+  ],
+  "extends": [
+    "plugin:lodash/recommended"
+  ]
+}

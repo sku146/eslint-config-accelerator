@@ -1,0 +1,12 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "jasmine"
+  ],
+  "extends": [
+    "plugin:jasmine/recommended"
+  ],
+  "rules": {
+    "jasmine/no-disabled-tests": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "promise"
+  ],
+  "extends": [
+    "airbnb",
+    "plugin:promise/recommended"
+  ]
+}

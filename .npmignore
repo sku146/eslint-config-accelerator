@@ -1,0 +1,17 @@
+src/
+specs/
+coverage/
+.git/
+.nyc_output/
+docs/
+conf.json
+.eslintrc
+.gitignore
+.npmignore
+node_modules
+npm-debug.log
+.npmrc
+.babelrc
+.DS_Store
+*.tgz
+.idea/
