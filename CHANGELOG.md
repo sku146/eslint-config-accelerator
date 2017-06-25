@@ -2,3 +2,4 @@
 
 ### Updated Readme.md file
 - added license link in readme file
+- updated the package.json version
