@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-accelerator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of ESLint rules, following our styleguide",
   "keywords": [
     "eslint",
@@ -30,7 +30,7 @@
   "dependencies": {
     "babel-eslint": "7.2.3",
     "babel-plugin-module-resolver": "2.7.1",
-    "eslint": "4.1.0",
+    "eslint": "3.19.0",
     "eslint-config-airbnb": "15.0.1",
     "eslint-import-resolver-babel-module": "3.0.0",
     "eslint-plugin-import": "2.6.0",
